@@ -73,11 +73,11 @@
 body {
   display: none;
   margin: 0;
+  background-color: var(--background-color);
   color: var(--text-color);
   font-family: var(--body-font-family);
   font-size: var(--body-font-size-m);
   line-height: 1.6;
-  background-color: antiquewhite;
 }
 
 body.appear {
@@ -110,7 +110,6 @@ h6 {
   font-weight: 600;
   line-height: 1.25;
   scroll-margin: 40px;
-  color:blueviolet;
 }
 
 h1 { font-size: var(--heading-font-size-xxl); }
