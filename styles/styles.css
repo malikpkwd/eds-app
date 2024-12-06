@@ -255,7 +255,8 @@ main .section.highlight {
   margin: 0;
   padding: 40px 0;
 }
+
 .section .default-content-wrapper a {
-  text-shadow: #a1a0a0 0px 1px 2px;
+  text-shadow: #a1a0a0 1px 2px;
   color:#860792;
 }
